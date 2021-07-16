@@ -1,1 +1,1 @@
-# Finance-blog
+# Finance
